@@ -1,10 +1,10 @@
-# Docker Bench for Security
+# Docker Bench for Security - Special Built for GEL
 
-![Docker Bench for Security running](img/benchmark_log.png)
+![Docker Bench for Security running](img/benchmark_log_gel.png)
 
-The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. The tests are all automated, and are based on the [CIS Docker Benchmark v1.3.1](https://www.cisecurity.org/benchmark/docker/).
+This Docker Bench for Security is a derived script from Docker Bench Security that checks for dozens of common best-practices around deploying Docker containers in production. The tests are all automated, and are based on the [CIS Docker Benchmark v1.3.0](https://www.cisecurity.org/benchmark/docker/). 
 
-We are making this available as an open-source utility so the Docker community can have an easy way to self-assess their hosts and docker containers against this benchmark.
+This is a special built for GEL
 
 ## Running Docker Bench for Security
 
