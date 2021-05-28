@@ -13,7 +13,7 @@ This is a special built for GEL
 You can simply run this script from your base host by running:
 
 ```sh
-git clone https://github.com/docker/docker-bench-security.git
+git clone https://github.com/Cyder-SG/docker-bench-security.git
 cd docker-bench-security
 sudo sh docker-bench-security.sh
 ```
