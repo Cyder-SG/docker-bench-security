@@ -13,6 +13,7 @@ The following people, listed in alphabetical order, have contributed to docker-b
 * Diogo Monica <diogo@docker.com>
 * Diogo Mónica <diogo.monica@gmail.com>
 * Ernst de Haan <ernst@ernstdehaan.com>
+* Fernando <fernando@cyder.com.sg>
 * HuKeping <hukeping@huawei.com>
 * Ivan Angelov <iangelov@users.noreply.github.com>
 * J0WI <J0WI@users.noreply.github.com>

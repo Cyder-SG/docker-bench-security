@@ -1,4 +1,4 @@
-# Docker Bench for Security maintainers file
+# Docker Bench for Security maintainers file - GEL version
 #
 # This file describes who runs the docker/docker-bench-security project and how.
 # This is a living document - if you see something out of date or missing, speak up!
@@ -32,3 +32,8 @@
 	Name = "Thomas Sjögren"
 	Email = "thomas.sjogren@protonmail.com"
 	GitHub = "konstruktoid"
+
+    [people.fernandocyder]
+	Name = "Fernando Karnagi"
+	Email = "fernando@cyder.com.sg"
+	GitHub = "Cyder-SG"
