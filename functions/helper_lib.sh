@@ -140,11 +140,17 @@ get_service_file() {
 
 yell_info() {
 yell "# --------------------------------------------------------------------------------------------
-# Docker Bench for Security v$version
+# Docker Bench for Security v$version, special built for GEL
 #
 # Docker, Inc. (c) 2015-$(date +"%Y")
+# Cyder SG 2021
 #
 # Checks for dozens of common best-practices around deploying Docker containers in production.
 # Based on the CIS Docker Benchmark 1.3.1.
+#
+# Checks for section 4 and 5
+#
+# Score calculation:
+# WARN Scored -1, PASS Scored +1, Not Score -0 (NOTE, INFO)
 # --------------------------------------------------------------------------------------------"
 }
