@@ -7,4 +7,4 @@
 # Checks for section 4 and 5
 # --------------------------------------------------------------------------------------------
 
-docker-bench-security.sh -c check_4_all,check_5_all
+./docker-bench-security.sh -c check_4_all,check_5_all
